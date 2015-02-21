@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ab">#ff00a9ff</color>
+    <color name="window_bg">#ff00bdff</color>
+    <color name="view_bg">#ffffff</color>
+    <color name="ab_under">#ff347ce1</color>
+    <color name="ab_dark">#205081</color>
+    <color name="ab_text">#ffffff</color>
+</resources>

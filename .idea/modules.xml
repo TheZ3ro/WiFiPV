@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/WiFiPasswordViewer.iml" filepath="$PROJECT_DIR$/WiFiPasswordViewer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libsuperuser/libsuperuser.iml" filepath="$PROJECT_DIR$/libsuperuser/libsuperuser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wiFiPasswordViewer/wiFiPasswordViewer.iml" filepath="$PROJECT_DIR$/wiFiPasswordViewer/wiFiPasswordViewer.iml" />
+    </modules>
+  </component>
+</project>
+

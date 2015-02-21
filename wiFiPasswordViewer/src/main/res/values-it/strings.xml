@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<string name="app_name">WiFi PV</string>
+	
+	<!-- OptionMenu -->
+	<string name="action_about">Informazioni</string>
+	
+	<string name="dialog_msg">Caricando le reti WiFi con Superuser&#8230;</string>
+	
+	<!-- NoSu Dialog -->
+	<string name="dialog_msg_nosu">L\'applicazione non ha i peremssi di Superuser. :( \n
+	    Il tuo telefono è Rootato?</string>
+	<string name="dialog_title_nosu">Errore Permessi Superuser</string>
+	<string name="ok">OK</string>
+	
+    <!-- About -->
+    <string name="close">Chiudi</string>
+	<string name="pirate">Pirata!</string>
+    <string name="about_title">Info su WiFi PV</string>
+    <string name="about_content">"WiFi PV è una piccola applicazione Android che ti permette di visualizzare
+le password delle reti WiFi salvate sul tuo dispositivo.
+ 
+WiFi PV by Davide \"@Th3Zer0\" Silvetti (io@thezero.org) 2013
+Puoi scaricare il codice sorgente qui: https://github.com/TheZ3ro/WiFiPV
+
+\"WiFi Icon\" fatta ds Freepik (http://www.freepik.com) per www.flaticon.com
+sotto licenza CC BY 3.0
+
+Il codice è rilasciato sotto licenza \"Do What The Fuck You Want\". 
+Sentiti Libero, Sii Libero. :) "</string>
+    <string name="ssid">SSID:      </string>
+    <string name="pass">Pasword:       </string>
+    <string name="key">Key Type:       </string>
+    <string name="default_s">Default</string>
+
+</resources>
