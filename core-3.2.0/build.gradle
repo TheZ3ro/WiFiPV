@@ -1,0 +1,2 @@
+configurations.create("default")
+artifacts.add("default", file('core-3.2.0.jar'))

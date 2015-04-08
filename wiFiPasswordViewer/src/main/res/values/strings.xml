@@ -16,22 +16,36 @@
 
     <!-- About -->
     <string name="close">Close</string>
-    <string name="pirate">Pirate!</string>
     <string name="about_title">About WiFi PV</string>
-    <string name="about_content">"WiFi PV is a small Android application that let you to view
-passwords of WiFi Networks saved in your device.
- 
-WiFi PV by Davide "@Th3Zer0" Silvetti (io@thezero.org) 2013
-You can download the source code Here: https://github.com/TheZ3ro/WiFiPV
-
-WiFi Icon made by Freepik (http://www.freepik.com) from www.flaticon.com
-is licensed by CC BY 3.0
-
-The source is released under \"Do What The Fuck You Want\" License. 
-Feel Free, Be Free. :) "</string>
     <string name="ssid">SSID:      </string>
-    <string name="pass">Pasword:       </string>
+    <string name="pass">Password:       </string>
     <string name="key">Key Type:       </string>
+    <string name="identity">Identity:       </string>
     <string name="default_s">Default</string>
+    <string name="show_qr">Show QR Code</string>
+    <string name="copy">Copy</string>
+    <string name="share">Send/Share</string>
+    <string name="error_share">Ops! An Error has occurred while sharing</string>
+    <string name="send_to">Send QRCode</string>
+    <string name="copied">Copied!</string>
+    <string name="view_pass">Touch on a WiFi to show its Password</string>
+
+    <string name="pirate">Pirate!</string>
+    <string name="license">License</string>
+    <string name="me">Me</string>
+
+    <string name="about_content">"WiFi PV by Davide \"TheZero\" Silvetti (io@thezero.org) 2015"</string>
+    <string name="about_source">"Source Code\nFeel Free, Be Free"</string>
+    <string name="twitter">Twitter</string>
+    <string name="github">Github</string>
+    <string name="plus">Google+</string>
+
+    <string name="twitter_name">"@Th3Zer0"</string>
+    <string name="github_name">"@TheZ3ro"</string>
+    <string name="plus_name">+DavideTheZero</string>
+
+    <string name="l_lfab">"zxing\n by @zxing"</string>
+    <string name="l_ltab1">"Android_Tabbed_Dialog\n by @kiteflo"</string>
+    <string name="l_ltab2">"PagerSlidingTabStrip\n by @jpardogo"</string>
 
 </resources>
