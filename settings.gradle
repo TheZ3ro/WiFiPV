@@ -1,2 +1,2 @@
-include ':libsuperuser', ':core-3.2.0', ':android-core-3.2.01'
-include ':wiFiPasswordViewer'
+include ':app'
+rootProject.name='WiFi Password Viewer'

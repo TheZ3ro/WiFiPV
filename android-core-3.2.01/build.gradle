@@ -1,2 +1,0 @@
-configurations.create("default")
-artifacts.add("default", file('android-core-3.2.0.jar'))

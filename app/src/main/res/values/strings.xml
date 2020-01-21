@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">WiFi PV</string>
+    <string name="dialog_msg">Getting WiFi Networks with Superuser&#8230;</string>
+
+    <string name="dialog_msg_nosu">It\'s seems you don\'t have Superuser permission. :(
+	    Is your phone Rooted?</string>
+    <string name="dialog_title_nosu">Superuser Permission Error.</string>
+    <string name="ok">OK</string>
+
+    <string name="close">Close</string>
+
+    <string name="ssid">SSID: </string>
+    <string name="pass">Password: </string>
+    <string name="keytype">Key Type: </string>
+    <string name="identity">Identity: </string>
+
+    <string name="show_qr">Show QR Code</string>
+    <string name="copy">Copy</string>
+    <string name="share">Send/Share</string>
+    <string name="error_share">Ops! An Error has occurred while sharing</string>
+    <string name="send_to">Send QRCode</string>
+    <string name="copied">Copied!</string>
+    <string name="view_pass">Touch on a WiFi to show its Password</string>
+    <string name="copy_password">Copy Password</string>
+
+</resources>

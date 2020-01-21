@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/WiFiPasswordViewer.iml" filepath="$PROJECT_DIR$/WiFiPasswordViewer.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android-core-3.2.01/android-core-3.2.01.iml" filepath="$PROJECT_DIR$/android-core-3.2.01/android-core-3.2.01.iml" />
-      <module fileurl="file://$PROJECT_DIR$/core-3.2.0/core-3.2.0.iml" filepath="$PROJECT_DIR$/core-3.2.0/core-3.2.0.iml" />
-      <module fileurl="file://$PROJECT_DIR$/libsuperuser/libsuperuser.iml" filepath="$PROJECT_DIR$/libsuperuser/libsuperuser.iml" />
-      <module fileurl="file://$PROJECT_DIR$/wiFiPasswordViewer/wiFiPasswordViewer.iml" filepath="$PROJECT_DIR$/wiFiPasswordViewer/wiFiPasswordViewer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WiFi Password Viewer.iml" filepath="$PROJECT_DIR$/WiFi Password Viewer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
 </project>
-
